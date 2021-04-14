@@ -1,8 +1,13 @@
-body{
-    letter-spacing: .2em;
-    background-color: #eeedec;
-    font-size: .8em;
+body {
+  letter-spacing: 0.2em;
+  background-color: #eeedec;
+  font-size: 0.8em;
 }
-.container{
-    max-width: 400px;
+.container {
+  max-width: 400px;
+}
+.icon {
+  position: relative;
+  top: -50px;
+  margin-bottom: -50px;
 }
